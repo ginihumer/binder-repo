@@ -1,4 +1,2 @@
-plotly==5.18.0
-pandas==1.4.3
 amumo @ git+https://github.com/ginihumer/Amumo.git
 rdkit==2023.9.1
