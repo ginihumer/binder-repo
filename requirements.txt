@@ -1,2 +1,2 @@
-amumo @ git+https://github.com/ginihumer/Amumo.git
+amumo[cloome] @ git+https://github.com/ginihumer/Amumo.git
 rdkit==2023.9.1
