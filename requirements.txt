@@ -1,2 +1,1 @@
-amumo[cloome] @ git+https://github.com/ginihumer/Amumo.git
-rdkit==2023.9.1
+amumo[clip,cloob,diffusion-db] @ git+https://github.com/ginihumer/Amumo.git
