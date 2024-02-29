@@ -1,5 +1,5 @@
-# Interactive Notebook for Exploring CLOOME with Amumo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ginihumer/binder-repo/cloome?labpath=modality_gap_cloome.ipynb) 
+# Interactive Notebook for Getting Started with Amumo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ginihumer/binder-repo/amumo?labpath=getting_started.ipynb) 
 
 Amumo (Analyze Multi-Modal Models), Humer et al. 2023
 
